@@ -7,3 +7,23 @@ body {
     background-color: rgb(202, 181, 153);
     font-size: 18px;
 }
+/** header **/
+.header{
+    padding: 40px 0;
+    background: f5f5f5;
+    padding-left: 15px;
+}
+.header .Ping-pong-image {
+    margin-right: 20px;
+
+}
+.Ping-pong-image{
+    float: left;
+}
+.header .header-content .gamename {
+    color: 49515a;
+    font-size:35px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+ 
+}
