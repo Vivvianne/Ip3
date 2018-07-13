@@ -1,5 +1,9 @@
 /** body **/
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #dd8811;
+    background: rgb(182, 140, 140);
+}
+.header{
+    background-color: rgb(202, 181, 153);
+    font-size: 18px;
 }
