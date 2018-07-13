@@ -15,15 +15,11 @@ body {
 }
 .header .Ping-pong-image {
     margin-right: 20px;
+}
 
-}
-.Ping-pong-image{
-    float: left;
-}
 .header .header-content .gamename {
     color: 49515a;
     font-size:35px;
     margin-bottom: 5px;
     margin-top: 10px;
- 
 }
